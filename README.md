@@ -18,7 +18,7 @@ Check out [API LIVE DEMO](https://backend-cenema.herokuapp.com/) here!!
 ## How to Install
 1. Git Clone
 ```
-git clone https://github.com/cenemaparadeso/Cenema-Paradiso.git
+git clone https://github.com/sharad1127/Cinema_Paradiso.git
 ```
 2. Backend setting
 ```
